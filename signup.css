@@ -1,0 +1,114 @@
+.leftwrap{
+    background-color: #4284f3;
+    height: 100vh;
+color: aliceblue;
+ 
+}
+
+.button{
+    
+    margin-left: 1000px;
+}
+.sign{
+    margin-left:150px ;
+    margin-top: 110px;
+    font-size:40px;
+    font-weight: 400;
+}
+.wel{
+margin-left: 115px;
+margin-top: 100px;
+font-size: 60px;
+}
+.manage{
+    margin-top: 300px;
+    margin-left:100px ;
+    font-size: 20px;
+    font-weight: 60;
+}
+.one{
+    font-size:medium;
+    margin-left: 30px;
+    color:#A6A6A6;
+}
+.entry{
+font-size: small;
+margin-left: 50px;
+margin-top: 50px;
+
+}
+.img6{
+    margin-left:120px ;
+    
+}
+.img5{
+    margin-top: 90px;
+    margin-left: 70px ;
+}
+
+.signinbtn{
+    background-color: #4284f3;
+    width: 100px;
+    height: 7vh;
+margin-left: 50px;
+
+}
+.signupbtn{
+    width: 100px;
+    height: 7vh;
+   margin-left: 100px;
+}
+.first{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.last{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.phone{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.email{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.pass2{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.cpass{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.name{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 69%;
+    height:7vh;
+}
+.state{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}
+.zip{
+    margin-top: 30px;
+    margin-left:50px;
+    width: 30%;
+    height:7vh;
+}

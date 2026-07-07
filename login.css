@@ -1,0 +1,81 @@
+.leftwrap{
+    background-color: #4284f3;
+    height: 100vh;
+color: aliceblue;
+ 
+}
+
+.button{
+    
+    margin-left: 1000px;
+}
+.sign{
+    margin-left:150px ;
+    margin-top: 110px;
+    font-size:40px;
+    font-weight: 400;
+}
+.wel{
+margin-left: 115px;
+margin-top: 100px;
+font-size: 60px;
+}
+.manage{
+    margin-top: 300px;
+    margin-left:100px ;
+    font-size: 20px;
+    font-weight: 60;
+}
+.one{
+    font-size:medium;
+    margin-left: 30px;
+    color:#A6A6A6;
+}
+.entry{
+font-size: small;
+margin-left: 50px;
+margin-top: 50px;
+
+}
+.img6{
+    margin-left:120px ;
+    
+}
+.img5{
+    margin-top: 90px;
+    margin-left: 70px ;
+}
+
+.in{
+    background-color: #4284f3;
+    width: 100px;
+    height: 7vh;
+margin-bottom: 50px;
+
+}
+
+.mail{
+    margin-top: 40px;
+    margin-left:50px;
+    width: 50%;
+    height:8vh;
+}
+.pass1{
+        margin-top: 3x0px;
+    margin-left:50px;
+    width: 50%;
+    height:8vh; 
+}
+.signin1btn{
+    background-color: #4284f3;
+    width: 100px;
+    height: 7vh;
+margin-left: 50px;
+
+}
+.signup1btn{
+    width: 100px;
+    height: 7vh;
+   margin-left: 70px;
+   margin-top:100px ;
+}

@@ -1,0 +1,20 @@
+.nawrap{
+    display: flex;
+   justify-content: space-around;
+   background-color: teal; 
+}
+
+.sidewrap{
+    display: flex;
+    flex-direction: column;
+    background-color: #531290;
+    width: 170px;
+    height: 140vh;
+    justify-content: space-between;
+}
+
+.whole{
+    background-image: url(images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
